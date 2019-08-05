@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "custom-doc-list",
+    "libraryId": "a31e2561-86fb-4cc0-a293-d5c1e6b786ca",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
