@@ -8,6 +8,6 @@
     "skipFeatureDeployment": true
   },
   "paths": {
-    "zippedPackage": "solution/custom-doc-list.sppkg"
+    "zippedPackage": "solution/Custom-Doc-List.sppkg"
   }
 }
